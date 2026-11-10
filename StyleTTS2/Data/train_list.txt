@@ -1,0 +1,156 @@
+output1_0.wav|ðə stˈɔːɹm hˈɪt dʒˈʌst æz ðə sˈʌn dˈɪpt bᵻlˌoʊ ðə hɚɹˈaɪzən, kˈæstɪŋ ðə skˈaɪ ɪn ɐ fˈaɪɚɹi hjˈuː ðæt kwˈɪkli fˈeɪdᵻd tə blˈæk. |1
+output_1.wav|tədˈeɪ aɪl biː tˈɔːkɪŋ ɐbˌaʊt maɪ ɹᵻsˈɜːtʃ pɹˈɑːɡɹɛs. |1
+output1_1.wav|ᵻlˈiːnəz bˈoʊt ɹˈɑːkt vˈaɪələntli ɔnðə tʃˈɜːnɪŋ sˈiː, ðə wˈeɪvz kɹˈæʃɪŋ ɐɡˈɛnst ðə sˈaɪd wɪð ɐ dˈɛfənɪŋ ɹˈɔːɹ. |1
+output_2.wav|aɪm kˈɜːɹəntli wˈɜːkɪŋ ˌʌndɚ pɹəfˈɛsɚ lˈiː ænd pɹaɪmˈɛɹᵻli fˈoʊkəsɪŋ ˈɔn |1
+output1_2.wav|ʃiː ɡɹˈɪpt ðə wˈɔːɹn wˈʊdən wˈiːl, hɜː nˈʌkəlz wˈaɪt, hɜː hˈɑːɹt ɹˈeɪsɪŋ sˈʌmwɛɹ ɪnðə dˈɑːɹknəs ɐhˈɛd. |1
+output_3.wav|tɹˈaɪɪŋ tə kɹiːˈeɪt ɐ pˈaɪplaɪn fɔːɹ ˌædvɚsˈɛɹɪəl ɐtˈæks ɐɡˈɛnst kˈɜːɹənt klˈæsɪfˌaɪɚz ðæt wiː hæv ɪnðə mˈɑːɹkɪt. |1
+output_5.wav|sˌoʊ tɹˈaɪɪŋ tə kɹiːˈeɪt sˈʌtʃ ˈɪmɪdʒ sˈʌtʃ ðæt mˈɑːdɚn klˈæsɪfˌaɪɚz fˈeɪlz. |1
+output_7.wav|sˌoʊ bˈeɪsɪkli, ðə mˈeɪn tˈɑːpɪk ɪz ˌædvɚsˈɛɹɪəl sˈiːn sˈɜːtʃ wɪð dˈɪfɚɹˌɛnʃɪəbəl ɹˈɛndɚɹɪŋ. |1
+output_8.wav|bˈeɪsɪkli, ðə mˈeɪn aɪdˈiə ɪz tə fˈuːl ˈɑːbdʒɛkt dɪtˈɛktɚz baɪ tʃˈeɪndʒɪŋ ðə θɹˈiː dˈiː sˈiːn. |1
+output_9.wav|sˌoʊ fˈɜːst, wiː nˈiːd tʊ ˌʌndɚstˈænd ðə pɹˈɑːbləm. |1
+output_10.wav|wˌʌt ɑːɹ ðə pɹˈiːviəsli dˈʌn ɹᵻsˈɜːtʃ ˌɔn ðɪs pɚtˈɪkjʊlɚ tˈɑːpɪk? |1
+output_11.wav|sˌoʊ ɪf juː tˈɔːk ɐbˌaʊt ðə pɹˈiːviəs dˈʌn ɹᵻsˈɜːtʃ, pɹaɪmˈɛɹᵻli wʌt pˈiːpəl dˈɪd wʌz ðeɪ jˈuːʒuːəli jˈuːzd tə tˈeɪk ɐ tˈuː dˈiː ˈɪmɪdʒ, ɪts ɐ tˈuː dˈiː stˈændɚd ˈɪmɪdʒ, ænd juː bˈeɪsɪkli tʃˈeɪndʒ sˈɜːʔn̩ pˈɪksəlz ʌv ðoʊz ˈɪmɪdʒᵻz. |1
+output_12.wav|sˌoʊ juː bˈeɪsɪkli ˈæd wɪð ɐ nˈɔɪz ɔːɹ juː ˈæd dˈɪfɹənt ˌɑːɹdʒˌiːbˈiː vˈæljuːz ˌɪntʊ ðæt pɚtˈɪkjʊlɚ pˈɪksəl ænd ðˈɛn juː ˈɔltɚ ðoʊz pˈɪksəlz ænd kɹiːˈeɪt ɐ nˈuː tˈuː dˈiː ˈɪmɪdʒ baɪ jˈuːzɪŋ ðɪ ɛɡzˈɪstɪŋ tˈuː dˈiː ˈɪmɪdʒ. |1
+output_13.wav|ænd juː sˈɛnd ðə nˈuː dɪzˈaɪnd tˈuː dˈiː ˈɪmɪdʒ tə ðə klˈæsɪfˌaɪɚ ænd jʊɹ tɹˈaɪɪŋ tə fˈaɪnd ˈaʊt ɐn ˈɪmɪdʒ wˌɛɹ ðə klˈæsɪfˌaɪɚ fˈeɪlz tə dɪtˈɛkt ðɪ ˈɑːbdʒɛkt. |1
+output_15.wav|ænd ˈɔːlsoʊ pˈiːpəl ɑːɹ kənsˈɪdɚɹɪŋ tə dˈuː ɐ θɹˈiː dˈiːbˈeɪst tˈɛkst. |1
+output_16.wav|sˌoʊ wʌt ðeɪ ᵻsˈɛnʃəli dˈuː ɪz ɹˈæðɚ ðɐn jˈuːzɪŋ ɐ tˈuː dˈiː pɹˈiːbˈɪlt ˈɪmɪdʒ, ðeɪ kɹiːˈeɪt ɐ nˈuː ˈɪmɪdʒ baɪ jˈuːzɪŋ ɐ θɹˈiː dˈiː sˈiːn ænd ɛnvˈaɪɹənmənt. |1
+output_18.wav|bˌʌt wʌt aɪm pɹaɪmˈɛɹᵻli dˌuːɪŋ hˈɪɹ ɪz bˈeɪsɪkli aɪm jˈuːzɪŋ sˈʌmθɪŋ kˈɔːld dˈɪfɚɹˌɛnʃɪəbəl ɹˈɛndɚɹɪŋ. |1
+output_19.wav|sˌoʊ ɹˈæðɚ ðɐn jˈuːzɪŋ mˈænjuːəl ɔːɹ ɹˈændəm ˌɑːpɚɹˈeɪʃənz, ɹˈændəm sˈɜːtʃ ˌɑːpɚɹˈeɪʃənz tə fˈaɪnd ðæt ˈɪmɪdʒ, aɪm tɹˈaɪɪŋ tə jˈuːz dˈɪfɚɹˌɛnʃɪəbəl ɹˈɛndɚɹɪŋ tə fˈaɪnd ðæt ˈɪmɪdʒ wˌɛɹ ðə klˈæsɪfˌaɪɚ fˈeɪlz tə pɹɪdˈɪkt ðɪ ˈɑːbdʒɛkt ɪn ðæt pɚtˈɪkjʊlɚ sˈiːn. |1
+output_20.wav|fˈɜːst, wiː nˈiːd tə tˈɔːk ɐ lˈɪɾəl bˈɪt ɐbˌaʊt hˌaʊ ˈæktʃuːəli ɐ θɹˈiː dˈiː mˈɑːdəl wˈɜːks. |1
+output_21.wav|sˌoʊ wɛnˌɛvɚ jʊɹ tˈɔːkɪŋ ɐbˌaʊt θɹˈiː dˈiː mˈɑːdəlz, θɹˈiː dˈiː mˈɑːdəlz ɑːɹ pɹaɪmˈɛɹᵻli stˈɔːɹd ɪn ˈeɪ .ˈɑːbdʒ fˈaɪl, wˌɪtʃ ɪz ˈeɪ .ˈɑːbdʒɛkt fˈaɪl. |1
+output_22.wav|ænd ɪɾ ˈɔːlsoʊ kənsˈɪsts, ɪɾ ˈɔːlsoʊ ɪz lˈɪŋkt tʊ ɐnˈʌðɚ fˈaɪl kˈɔːld .ˌɛmtˌiːˈɛl fˈaɪl, wˈɪtʃ ɪz ðə .mətˈɪɹiəl fˈaɪl. |1
+output_23.wav|ænd ɪf juː lˈʊk æt ðə .ˈɑːbdʒ fˈaɪl, jˈuːʒuːəli juː hæv vˈɜːtɛks, ɹˈaɪt? |1
+output_24.wav|ˈiːtʃ mˈɑːdəl ɪz kəmpˈoʊzd ʌv mˈɪliənz, lˈaɪk hˈʌndɹɪdz, θˈaʊzəndz ʌv θɹˈiː dˈiː pˈɔɪnts, ænd ðoʊz pˈɔɪnts ɑːɹ ˌɪntɚkənˈɛktᵻd wɪð ˈiːtʃ ˈʌðɚ tə fˈɔːɹm ɐ fˈeɪs, ɹˈaɪt? |1
+output_26.wav|sˌoʊ juː fˈɜːst dᵻfˈaɪn ˈɔːl ðə vˈɜːtɛks, ænd ðˈɛn juː kənˈɛkt ðoʊz vˈɜːtɛks ˌɪntʊ ɐ tɹˈaɪæŋɡəl baɪ jˈuːzɪŋ ɐ fˈeɪs, ɹˈaɪt? |1
+output_27.wav|ænd wɛn juː kənˈɛkt ˈɔːl ʌv ðoʊz tɹˈaɪæŋɡəlz təɡˈɛðɚ, ðˈɛn juː fˈɔːɹm ðə θɹˈiː dˈiː mˈɑːdəl. |1
+output_28.wav|ænd ðˈɛn wʌt ɐbˌaʊt ðə tˈɛkstʃɚz ɔːɹ ðə kˈʌlɚɹ ʌvðə mˈɑːdəl, ɹˈaɪt? |1
+output_29.wav|bˈeɪsɪkli, ðˈɛn wʌt juː dˈuː ɪz juː tˈeɪk ðoʊz fˈeɪsᵻz ænd ðˈɛn juː mˈæp ðə fˈeɪsᵻz wɪð ɐ pɚtˈɪkjʊlɚ .ˌɛmtˌiːˈɛl fˈaɪl, ɹˈaɪt? |1
+output_30.wav|ðə .ˌɛmtˌiːˈɛl fˈaɪl bˈeɪsɪkli hɐz lˈɪŋks tə vˈɛɹiəs ˈɪmɪdʒᵻz. |1
+output_32.wav|sˌoʊ ðə jˌuːvˈiː mˈæpt ˈɪmɪdʒ, ðə jˌuːvˈiː mˈæpt, ðə mˈɑːdəl ɪz bˈeɪsɪkli jˌuːvˈiː mˈæpt baɪ jˈuːzɪŋ ðə .ˌɛmtˌiːˈɛl ˈɪmɪdʒ. |1
+output_33.wav|ænd ðæts hˌaʊ juː ɡɛt ˈɔːl ðoʊz tˈɛkstʃɚz ˌɪntʊ ðə mˈɑːdəl. |1
+output_34.wav|ænd sˈʌmθɪŋ ðæt aɪ wˈɔnt tə tˈɔːk ɐbˌaʊt hˈɪɹ ɪz sˈʌmθɪŋ kˈɔːld pˈæθ tɹˈeɪsɪŋ. |1
+output_35.wav|wˌɛɹ ðɪs ɪz jˈuːʒuːəli jˈuːzd ɪn ɡˈeɪmɪŋ tɛknˈɑːlədʒi. |1
+output_36.wav|ðɪs ɪz jˈuːʒuːəli jˈuːzd tə ɡɛt ɐ hˈaɪli ɹˈɛndɚd ɡˈʊd kwˈɔlᵻɾi ˈɪmɪdʒ wɛn jʊɹ ɹˈɛndɚɹɪŋ ɐ θɹˈiː dˈiː sˈiːn. |1
+output_37.wav|sˌoʊ wʌt ᵻsˈɛnʃəli hˈæpənz hˈɪɹ ɪz juː hæv ɐ lˈaɪt sˈɔːɹs ænd ðə lˈaɪt sˈɔːɹs bˈeɪsɪkli ɪmˈɪts sˌʌm lˈaɪt, ɹˈaɪt? |1
+output_38.wav|ænd ðˈɛn juː kæn sˈɛt hˌaʊ mˈɛni tˈaɪmz ðæt juː wˈɔnt ðə lˈaɪt tʊ ˈæktʃuːəli bˈaʊns fɹʌm ɐnˈʌðɚɹ ˈɑːbdʒɛkt. |1
+output_39.wav|sˌoʊ ɪf juː ɪŋkɹˈiːs ðə nˈʌmbɚɹ ʌv bˈaʊnsᵻz, ɹˈaɪt, wˌɪtʃ ɪz bˈeɪsɪkli kˈɔːld sˈæmpəl pɜː pˈɪksəl, ɪf juː ɪŋkɹˈiːs ðə sˈæmpəl pɜː pˈɪksəl, ðˈɛn ɪts ɡˌoʊɪŋ tʊ ɪŋkɹˈiːs ðə kwˈɔlᵻɾi ʌvðɪ ˈɪmɪdʒ bɪkˈʌz jʊɹ bˈaʊnsɪŋ ðə lˈaɪt mˌʌltɪpəl tˈaɪmz, ɹˈaɪt? |1
+output_40.wav|ɪts kˈælkjʊlˌeɪɾɪŋ hˌaʊ mˈʌtʃ lˈaɪt dˈʌz ɐ pɚtˈɪkjʊlɚ sˈɜːfɪs əbzˈɜːv ɔːɹ bˈeɪsɪkli ɪmˈɪt, ɹˈaɪt? |1
+output_41.wav|sˌoʊ pˈæθ tɹˈeɪsɪŋ ɪz jˈuːʒuːəli jˈuːzd tə ɡɛt ðæt ʃˈædoʊz ˌɪntʊ ðɪ ˈɪmɪdʒ. |1
+output_42.wav|juː ɡɛt ðə pˈɜːfɛkt kwˈɔlᵻɾi hˌaʊ ðə lˈaɪt ˈæktʃuːəli ɐfˈɛkts ðə mˈɑːdəl ɪnðə pɚtˈɪkjʊlɚ sˈiːn, ɹˈaɪt? |1
+output_43.wav|ˈɔːlsoʊ, sˈʌmθɪŋ ɐbˌaʊt ɹˌæstɚɹaɪzˈeɪʃən. |1
+output_44.wav|sˌoʊ ɪn ɹˌæstɚɹaɪzˈeɪʃən, wˌʌt juː ᵻsˈɛnʃəli dˈuː ɪz, ɹˈæðɚ ðɐn jˈuːzɪŋ pˈæθ tɹˈeɪsɪŋ, lˈaɪk aɪ sˈɛd, juː jˈuːz ɐ lˈaɪt sˈɔːɹs, ænd ðə lˈaɪt sˈɔːɹs sˈɛndz sˌʌm lˈaɪt. |1
+output_45.wav|bˌʌt ɪn ɹˌæstɚɹaɪzˈeɪʃən, wˌʌt hˈæpənz ɪz juː bˈeɪsɪkli hæv ðə θɹˈiː dˈiː tɹˈaɪæŋɡəlz ænd ðə fˈeɪsᵻz. |1
+output_46.wav|juː bˈeɪsɪkli flˈæʔn̩ ðoʊz fˈeɪsᵻz ˌɑːntʊ ɐ plˈeɪn, ænd ðˈɛn juː ɹˈɛndɚ ðə ʃˈædoʊz lˈaɪk ðˈæt. |1
+output_47.wav|sˌoʊ ɪts mˈʌtʃ mˈɔːɹ fˈæstɚ bɪkˈʌz jʊɹ nˌɑːt dˈiːlɪŋ wɪð hˌaʊ lˈaɪt bˈaʊnsᵻz ænd ˈɛvɹɪθˌɪŋ θɹuː ˈiːtʃ ˈɑːbdʒɛkt. |1
+output_48.wav|sˌoʊ ɪts mˈʌtʃ mˈɔːɹ fˈæstɚ wɛn ɪt kˈʌmz tə pˈæθ tɹˈeɪsɪŋ. |1
+output_49.wav|ænd hˈɪɹ, aɪm jˈuːzɪŋ tˈuː pɹˈaɪmɚɹi lˈaɪbɹɛɹiz tə ɹˈɛndɚ maɪ ˈɪmɪdʒ. |1
+output_50.wav|aɪm jˈuːzɪŋ pˈaɪ tˈɔːɹtʃ θɹˈiː dˈiː, ænd ðə nˈɛkst ɹˈɛndɚɹɚ ðæt aɪm jˈuːzɪŋ ɪz mɪtsˈuːbə θɹˈiː. |1
+output_51.wav|sˌoʊ ðə pˈaɪ tˈɔːɹtʃ θɹˈiː dˈiː jˈuːsᵻz ɹˌæstɚɹaɪzˈeɪʃən, wˈɛɹæz ðə mɪtsˈuːbə θɹˈiː jˈuːsᵻz pˈæθ tɹˈeɪsɪŋ. |1
+output_52.wav|sˌoʊ wɛn ɪt kˈʌmz tə kwˈɔlᵻɾi ʌv ˈɪmɪdʒ, jʊɹ ɡˌɛɾɪŋ ɐ bˈɛɾɚ kwˈɔlᵻɾi ʌv ˈɪmɪdʒ ɪn mɪtsˈuːbə θɹˈiː bɪkˈʌz juː ɑːɹ kˈaʊntɪŋ ðɪ ˈæktʃuːəl lˈaɪt pˈæθ æz wˈɛl fɹʌmðə lˈaɪt sˈɔːɹs tə ðɪ ˈɑːbdʒɛkt. |1
+output_53.wav|bˌʌt ɪn ɹˌæstɚɹaɪzˈeɪʃən, juː dˈoʊnt ɡɛt ðə ʃˈædoʊ ɪnðɪ ˈɪmɪdʒᵻz bɪkˈʌz ðə lˈaɪt ɪz nˌɑːt bˌiːɪŋ bˈaʊnst ˈɔf ɪn mˈoʊdəl ænd θˈɪŋz lˈaɪk ðˈæt. |1
+output_55.wav|sˌoʊ æz aɪ sˈɛd bᵻfˈɔːɹ, ðə mˈeɪn ɹˈiːzən ʌv tʃˈuːzɪŋ ðɪs ɪz bˈeɪsɪkli tə stˈʌdi hˌaʊ lˈaɪɾɪŋ ɐfˈɛkts ðə pɚtˈɪkjʊlɚ mˈɑːdəl ænd θɹˈiː dˈiː sˈiːn. |1
+output_56.wav|bɪkˈʌz ɪf jʊɹ jˈuːzɪŋ mɪtsˈuːbə θɹˈiː, juː ɡɛt ðoʊz ʃˈædoʊz, ænd juː ɡɛt ðɪ ˈæktʃuːəl kˈʌlɚɹ ʌvðə mˈɑːdəl ɹˈaɪt ˈæftɚ ðə lˈaɪt ɪz bˌiːɪŋ ɹᵻflˈɛktᵻd. |1
+output_57.wav|haʊˈɛvɚ, ɪf juː wˈɔnt ɐ fˈæstɚ bˈeɪs ɹˈɛndɚ, pˈaɪ tˈɔːɹtʃ θɹˈiː dˈiː ɪz mˈʌtʃ mˈɔːɹ fˈæstɚ kəmpˈɛɹd tə mɪtsˈuːbə θɹˈiː. |1
+output_58.wav|sˌoʊ nˈaʊ aɪm ɡˌoʊɪŋ tə tˈɔːk ɐ lˈɪɾəl bˈɪt ɐbˌaʊt hˌaʊ ðə sˈɪstəm ˈɑːɹkɪtˌɛktʃɚ lˈʊks lˈaɪk. |1
+output_59.wav|sˌoʊ fˈɜːst, juː bˈeɪsɪkli hæv ɐ sˈiːn, ɹˈaɪt? |1
+output_61.wav|ɪnðə sˈiːn, juː fˈɜːst ɹˈɛndɚ ðə θɹˈiː dˈiː sˈiːn, ɹˈaɪt? |1
+output_63.wav|ænd ˌɔn tˈɑːp ʌv ðæt sˈiːn, juː bˈeɪsɪkli ɹˈɛndɚɹ ɐ θɹˈiː dˈiː mˈɑːdəl, ɹˈaɪt? |1
+output_66.wav|juː bˈeɪsɪkli ɹˈiːd ðɪ ˌoʊbˌiːdʒˈeɪ fˈaɪl baɪ jˈuːzɪŋ ðə ɹˈɛndɚɹɚ ænd ɹˈɛndɚ ðæt mˈɑːdəl ˌɪntʊ ðə θɹˈiː dˈiː sˈiːn, ɹˈaɪt? |1
+output_67.wav|ˈæftɚ ɡˌɛɾɪŋ ðæt hˈoʊl sˈiːn ɹˈɛdi, wˌʌt juː dˈuː ɪz juː bˈeɪsɪkli klˈɪk ɐn ˈɪmɪdʒ baɪ jˈuːzɪŋ ɐ kˈæmɹə sˈɛnsɚ. |1
+output_69.wav|ænd juː ˈɔːlsoʊ tˈɛl ðə klˈæsɪfˌaɪɚ, hˈeɪ, aɪ hæv ðɪs θɹˈiː dˈiː mˈɑːdəl ɪn maɪ ˈɪmɪdʒ. |1
+output_70.wav|wˌʌt ɪz ðə pɹˌɑːbəbˈɪlᵻɾi ðæt ðɛɹ ɪz ðɪs mˈɑːdəl ɪnðɪ ˈɪmɪdʒ? |1
+output_71.wav|sˌoʊ lˈɛts sˈeɪ aɪ hæv ɐ pˈɜːsən ɪn maɪ θɹˈiː dˈiː sˈiːn. |1
+output_72.wav|sˌoʊ wʌt aɪ bˈeɪsɪkli sˈeɪ tə ðə dɪtˈɛktɚɹ ɪz, aɪ hæv ɐ pˈɜːsən ɪn ðɪs sˈiːn. |1
+output_73.wav|kæn juː plˈiːz ɡˈɪv mˌiː ðə pɹˌɑːbəbˈɪlᵻɾi ʌv ðɪs ˈɪmɪdʒ hˌævɪŋ ɐ pˈɜːsən? |1
+output_74.wav|ænd ðˈɛn ðə dɪtˈɛktɚɹ ɪz bˈeɪsɪkli ɡˌoʊɪŋ tə ɹᵻplˈaɪ bˈæk wɪððə pɹˌɑːbəbˈɪlᵻɾi ðætðɪ ˈɪmɪdʒ mˌaɪthɐv ɐ pˈɜːsən ɪn ɪt. |1
+output_77.wav|ðə sˈiːn wˌɛɹ ðə mˈɑːdəl fˈeɪlz. |1
+output_81.wav|ænd wɛn juː ɡɛt ɐ fˈiːdbæk fɹʌmðə klˈæsɪfˌaɪɚ, juː bˈæk pɹˈɑːpɐɡˌeɪt ɐɡˈɛn bˈæk tə ðə θɹˈiː dˈiː sˈiːn ænd ðˈɛn tʃˈeɪndʒ ðə pəzˈɪʃən ɔːɹ ˌɛni ˈʌðɚ pɹˈɑːpɚɾiz ðæt jʊɹ wˈɜːkɪŋ ˈɔn. |1
+output_84.wav|ðˈɛn juː bˈæk pɹˈɑːpɐɡˌeɪt ɐɡˈɛn ænd tɹˈaɪ tə mˈɪnɪmˌaɪz ðə lˈɔs hˈɪɹ. |1
+output_85.wav|ðæts ðə wˈeɪ wiː kæn jˈuːz ɡɹˈeɪdiənt pˈæθ ɪn ðɪs sˌɪtʃuːˈeɪʃən. |1
+output_86.wav|ˌoʊkˈeɪ, sˌoʊ wʌt dˈɪd aɪ bˈɪld ˈæktʃuːəli ɪn ðɪs pɹˈɑːdʒɛkt? |1
+output_87.wav|sˌoʊ lˈɛts tˈɔːk ɐ lˈɪɾəl bˈɪt bɹˈiːfli ɐbˌaʊt wʌt aɪ bˈɪlt. |1
+output_88.wav|sˌoʊ fˈɜːst, aɪ bˈɪlt ɐ bˈeɪsɪk ɹˈɛndɚɹɪŋ ˈɑːɹkɪtˌɛktʃɚ wˌɛɹ juː kæn kˈiːp ðə θɹˈiː dˈiː ˌoʊbˌiːdʒˈeɪ fˈaɪl ænd ðˈɛn ðə mətˈɪɹiəlz fɔːɹ ðæt ˌoʊbˌiːdʒˈeɪ fˈaɪl tə ðə ɹˈɛndɚɹɚ. |1
+output_89.wav|ænd ɪt wɪl ɹˈɛndɚ juː ðə sˈiːn ænd ɡˈɪv juː ðə tˈuː dˈiː ˈɪmɪdʒ. |1
+output_91.wav|ænd ðˈɛn aɪ ˈɔːlsoʊ bˈɪlt ɐn ˈɑːɹkɪtˌɛktʃɚ wˌɛɹ juː kæn bˈeɪsɪkli ɐtˈæk θɹuː fˈaɪv dˈɪfɹənt sˈɜːfɪsᵻz. |1
+output_92.wav|sˌoʊ juː kæn ˈiːðɚ tʃˈeɪndʒ ðə pəzˈɪʃən, ɹoʊtˈeɪʃən, pˈoʊz, lˈaɪɾɪŋ, ɔːɹ tˈɛkstʃɚɹ ʌvðə mˈɑːdəl. |1
+output_94.wav|ænd wiː kæn lˈʊk æt wˌɪtʃ pəzˈɪʃən ɔːɹ wˌɪtʃ ɹoʊtˈeɪʃən, wˌɪtʃ pˈoʊz, wˌɪtʃ lˈaɪɾɪŋ, ɔːɹ wˌɪtʃ tˈɛkstʃɚ pˈʊlz ðə mˈɑːdəl. |1
+output_96.wav|ænd wiː kæn lˈʊk ˌɪntʊ ðiːz pɹˈɑːpɚɾiz ænd tɹˈaɪ tə fˈaɪnd ðæt ˈɑːptɪməl ˈɪmɪdʒ wˌɛɹ ðə klˈæsɪfˌaɪɚ pˈʊlz ɪtsˈɛlf. |1
+output_97.wav|ænd ˈɔːlsoʊ, aɪ hæv dᵻfˈaɪnd sˌʌm kənstɹˈeɪnts, lˈaɪk ðə mˈɑːdəl ʃˌʊd biː wɪðˌɪn ðɪ ˈɪmɪdʒ. |1
+output_98.wav|juː dˈoʊnt wˈɔnt ðə mˈɑːdəl təbi aʊtsˈaɪd ʌvðɪ ˈɪmɪdʒ ðæt juː hæv kˈæptʃɚd. |1
+output_100.wav|ɐ dˈɛsktɑːp ˌæplɪkˈeɪʃən wˌɛɹ juː kæn ɹˈændəmli tʃˈeɪndʒ ðə pəzˈɪʃən ɔːɹ ðə lˈaɪt ɔːɹ jˈɔː ɔːɹ ɹoʊtˈeɪʃən ʌv ðæt pɚtˈɪkjʊlɚ mˈɑːdəl ænd fˈaɪnd ɐn ˈɪmɪdʒ wˌɛɹ ðə klˈæsɪfˌaɪɚ fˈuːlz ɪtsˈɛlf. |1
+output_104.wav|ɪf jʊɹ dʒˌiːpˈiː ɪz tʃˈeɪndʒɪŋ ɪts pəzˈɪʃən ɹˈændəmli, ɹˈaɪt? |1
+output_107.wav|ænd ɪnðə ɹˈaɪt tˈɑːp hˈænd sˈaɪd, juː kæn sˈiː ðɪ ˈaʊtpʊt baɪ ðə klˈæsɪfˌaɪɚ. |1
+output_108.wav|sˌoʊ nˈaʊ ðə klˈæsɪfˌaɪɚ θˈɪŋks ðˌɐɾɪt hɐz ɐ hˈaɪ pɹˌɑːbəbˈɪlᵻɾi fɔːɹ ɪt bˌiːɪŋ ɐ pˈɪkʌp tɹˈʌk. |1
+output_109.wav|bˌʌt ɪf juː ɹˈʌn ɪɾ ɐ kˈʌpəl ʌv tˈaɪmz, ɪt kˈiːps ˌɔn tʃˈeɪndʒɪŋ. |1
+output_111.wav|ɪt θˈɪŋks ðætðɪ ˈɑːbdʒɛkt ðæt juː hæv ɪnðə sˈiːn ɪz ɐ kˈɑːɹ wˈiːl. |1
+output_112.wav|sˌoʊ jʊɹ bˈeɪsɪkli tɹˈaɪɪŋ tə tʃˈeɪndʒ ðə pəzˈɪʃən ænd tɹˈaɪɪŋ tə fˈaɪnd ɐn ˈɪmɪdʒ wˌɛɹ ðə klˈæsɪfˌaɪɚɹ ɪz nˌɑːt ˈeɪbəl tʊ aɪdˈɛntᵻfˌaɪ ɪɾ æz ɐ dʒˈiːp ˌɛnɪmˈɔːɹ. |1
+output_113.wav|sˌoʊ wʌt ɑːɹ ðə fˈaɪv pɹˈɑːpɚɾiz ðæt aɪm pɹaɪmˈɛɹᵻli ɐtˈækɪŋ ɔːɹ tɹˈaɪɪŋ tə tʃˈeɪndʒ, bˈeɪsɪkli? |1
+output_114.wav|sˌoʊ ðə fˈaɪv mˈeɪn pɹˈɑːpɚɾiz ðæt aɪm tɹˈaɪɪŋ tə tʃˈeɪndʒ ɪz pəzˈɪʃən, ɹoʊtˈeɪʃən, pˈoʊz, lˈaɪɾɪŋ, ænd tˈɛkstʃɚz, ɹˈaɪt? |1
+output_115.wav|sˌoʊ ɪnðə pəzˈɪʃən, wˌʌt aɪ dˈɪd wʌz ɪts nˌɑːt mˈuːvɪŋ ɔnðə wˈaɪˈæksɪs hˈɪɹ. |1
+output_116.wav|sˌoʊ jˈuːʒuːəli wˈɛn juː ɑːɹ, ˈiːtʃ ɹˈɛndɚɹɚ hɐz ɐ dˈɪfɹənt ˈæksɪs sˈɪstəm. |1
+output_117.wav|sˌoʊ ðə ɹˈɛndɚɹɚ ðæt aɪm jˈuːzɪŋ, ðə wˈaɪˈæksɪs ɪz ˈʌpwɚdz ænd dˈaʊnwɚdz. |1
+output_118.wav|sˌoʊ aɪm tɹˈaɪɪŋ tə fˈɪks ðə wˈaɪpəzˈɪʃən bɪkˈʌz aɪ dˈoʊnt wˈɔnt ðə mˈɑːdəl tə flˈoʊt ɚɹˈaʊnd ðə sˈiːn, ɹˈaɪt? |1
+output_119.wav|aɪ wˈɔnt ɪt təbi fˈɪkst ɪn ɐ pɚtˈɪkjʊlɚɹ ˈæksɪs, ɹˈaɪt? |1
+output_121.wav|ðæts ðə ɹˈiːzən wˌaɪ aɪ fˈɪks ðə wˈaɪˈæksɪs ænd aɪ ˈoʊnli tʃˈeɪndʒ ðɪ ˈɛks ænd zˈiːˈæksɪs hˈɪɹ. |1
+output_125.wav|sˌoʊ bˈeɪsɪkli sˈʌmtaɪmz, sˌʌm ʌvðə ɹᵻsˈɜːtʃ pˈeɪpɚz ˈɔːlsoʊ dˈuː tˈɛkstʃɚbˈeɪst ˌædvɚsˈɛɹɪəl ɐtˈæks. |1
+output_126.wav|ɪn ðæt kˈaɪnd ʌv ɐtˈæk, wˌʌt juː bˈeɪsɪkli dˈuː ɪz juː tʃˈeɪndʒ ðə tˈɛkstʃɚɹ ʌvðə θɹˈiː dˈiː mˈɑːdəl. |1
+output_127.wav|ænd jʊɹ tɹˈaɪɪŋ tə kɹiːˈeɪt ðɪs kˈæməflˌɑːʒ ʌvðə θɹˈiː dˈiː mˈɑːdəl wɪð ɪts ɛnvˈaɪɹənmənt. |1
+output_128.wav|sˌoʊ jʊɹ tɹˈaɪɪŋ tə fˈuːl ðə mˈɑːdəl baɪ mˌeɪkɪŋ sˈɪmɪlɚ kˈʌlɚɹ ʌvðə mˈɑːdəl tˈɛkstʃɚz tʊ ɪts bˈækɡɹaʊnd. |1
+output_129.wav|sˌoʊ ðæts hˌaʊ juː kæn bˈɪld tˈɛkstʃɚbˈeɪst ˌædvɚsˈɛɹɪəl ɐtˈæks. |1
+output_132.wav|lˈaɪt ɑːɹ bˈeɪsɪkli ðə pɹˈɑːpɚɾiz ðæt juː hæv dᵻfˈaɪnd fɹʌmðə tˈɛnsɚz ænd ɹᵻbˈɪldɪŋ ðə hˈoʊl sˈiːn. |1
+output_133.wav|juː fˈɜːst tˈeɪk ðɪ ˈɪnpʊt ænd ðˈɛn ɹᵻbˈɪld ðə hˈoʊl sˈiːn. |1
+output_134.wav|ðˈɛn wʌt juː dˈuː, juː bˈeɪsɪkli sˈɛnd ðæt ˈɪmɪdʒ, kˈæptʃɚ ðæt ˈɪmɪdʒ ænd sˈɛnd ɪt tʊ ɐ klˈæsɪfˌaɪɚ. |1
+output_135.wav|ðə klˈæsɪfˌaɪɚ bˈeɪsɪkli ɡˈɪvz bˈæk ðə pɹˌɑːbəbˈɪlᵻɾi ʌvðɪ ˈɑːbdʒɛkt. |1
+output_138.wav|juː ˈɑːptɪmˌaɪz jʊɹ hˈoʊl wˈeɪts ænd bˈaɪəs ɔnðə bˈeɪsɪs ʌv ðæt vˈæljuː, ɹˈaɪt? |1
+output_139.wav|jʊɹ tɹˈaɪɪŋ tə mˈɪnɪmˌaɪz ðə pɹˌɑːbəbˈɪlᵻɾi ʌvðə mˈɑːdəl, ɹˈaɪt? |1
+output_140.wav|sˌoʊ ɔnðə bˈeɪsɪs ʌvðɪ ˈaʊtpʊt ɡˈɪvən baɪ ðə klˈæsɪfˌaɪɚ, juː ɡˌoʊ bˈækwɚd ænd ðˈɛn juː ʌpdˈeɪt ˈɔːl ʌv ðoʊz pɚɹˈæmɪɾɚz ɐkˈɔːɹdɪŋli. |1
+output_144.wav|ɹˌiːɹˈɛndɚ ðə hˈoʊl sˈiːn ɐɡˈɛn wɪððə nˈuː ʌpdˈeɪɾᵻd pɚɹˈæmɪɾɚz. |1
+output_145.wav|ænd wɛn juː ɡɛt ðæt nˈuː ʌpdˈeɪɾᵻd pɚɹˈæmɪɾɚ, wˌɛn juː bˈɪld ðə hˈoʊl sˈiːn baɪ ɹˈɛndɚ, juː ɹᵻpˈiːt ðə pɹˈɑːsɛs, ɹˈaɪt? |1
+output_146.wav|juː ɹᵻpˈiːt ðə pɹˈɑːsɛs ʌntˈɪl ænd ʌnlˈɛs juː fˈaɪnd ɐ sˈɜːʔn̩ ˈɪmɪdʒ wˌɛɹ ðə pɹˌɑːbəbˈɪlᵻɾi ʌvðə mˈɑːdəl dˈiːkɹiːsᵻz ɐ lˈɑːt, ɹˈaɪt? |1
+output_147.wav|ænd ðæts ðə dʒˈɛnɚɹəl pɹˈɑːsɛs ʌv hˌaʊ ðə bækˈɛnd hˈɪɹ wˈɜːks. |1
+output_149.wav|ðɪs ɪz wˈʌn ʌvðɪ ɐpɹˈoʊtʃᵻz ðæt aɪ ɪnˈɪʃəli tˈʊk. |1
+output_150.wav|sˌoʊ maɪ ɪnˈɪʃəl pɹˈɑːpɚɹ ɐpɹˈoʊtʃ wʌz tə bˈeɪsɪkli jˈuːs ɐ ɡɹˈiːdi bˈeɪst ɐpɹˈoʊtʃ. |1
+output_151.wav|sˌoʊ wʌt aɪ wʌz tɹˈaɪɪŋ tə dˈuː ɪz aɪ wʌz tɹˈaɪɪŋ tə ɹˈændəmli tʃˈeɪndʒ ðə pəzˈɪʃən ʌvðə mˈɑːdəl ɪnðə θɹˈiː dˈiː ɛnvˈaɪɹənmənt ænd tɹˈaɪɪŋ tə fˈaɪnd ɐn ˈɪmɪdʒ wˌɛɹ ðə klˈæsɪfˌaɪɚ fˈoʊldz ɪtsˈɛlf. |1
+output_152.wav|sˌoʊ ðæts ðə ɡɹˈiːdi ɐpɹˈoʊtʃ ðæt aɪ tˈʊk. |1
+output_153.wav|tˈɔːkɪŋ ɐbˌaʊt vˈɪʒuːəlz, ðɪs ɪz hˌaʊ ðɪ ˈæktʃuːəl tˈuː dˈiː ˈɪmɪdʒ lˈʊks lˈaɪk ˈæftɚ ɹˈɛndɚɹɪŋ ðə hˈoʊl θɹˈiː dˈiː mˈɑːdəl, ɹˈaɪt? |1
+output_154.wav|ɪf juː lˈʊk hˈɪɹ, ðə mˈɑːdəl hˈɪɹ ɪz ðə hjˈuːmən ænd ðə bˈækɡɹaʊnd hˈɪɹ ɪz ɐ θɹˈiː dˈiː sˈiːn. |1
+output_155.wav|lˈaɪk ðə θɹˈiː dˈiː sˈiːn hˈɪɹ ɪz lˈaɪk ɹˈoʊdz ænd hˈaʊs, ɹˈaɪt? |1
+output_157.wav|sˌoʊ wʌt aɪ dˈɪd ɪnˈɪʃəli wʌz aɪ ɹˈɛndɚd ðə hˈoʊl θɹˈiː dˈiː sˈiːn. |1
+output_158.wav|ðˈɛn aɪ ɹˈɛndɚd ðə θɹˈiː dˈiː mˈɑːdəl hˈɪɹ ɪn ðæt pɚtˈɪkjʊlɚ θɹˈiː dˈiː sˈiːn ænd kˈæptʃɚd ðɪs ˈɪmɪdʒ baɪ ɐ kˈæmɹə ˈɑːbdʒɛkt ɪnðə sˈiːn. |1
+output_159.wav|sˌoʊ nˈaʊ ɪf juː lˈʊk hˈɪɹ, ðɪs ɪz wʌt aɪ ɐtʃˈiːvd wɛn aɪ dˈɪd ɹˈændəm bˈeɪst |1
+output_161.wav|aɪ wʌz ˈeɪbəl tʊ ɐtʃˈiːv ðɪs ˈɪmɪdʒ ɔnðə ɹˈaɪt hˈænd sˈaɪd. |1
+output_162.wav|ɪn ðɪs ˈɪmɪdʒ, wˌɛn aɪ sˈɛnt ðɪs ˈɪmɪdʒ tə ðə klˈæsɪfˌaɪɚ, ɪt tˈoʊld mˌiː ðæt ðɛɹz ɐ fˈɔːɹɾi tˈuː pɔɪnt fˈɔːɹ fˈɔːɹ pɚsˈɛnt tʃˈæns ðætðɪ ˈɪmɪdʒ hɐz ɐ pˈɜːsən ɪn ɪt. |1
+output_164.wav|lˈaɪk ˈiːvən ɪt mˌaɪt nˌɑːt lˈʊk ðæt klˈɪɹ fɹʌm ðɪs pɚtˈɪkjʊlɚɹ ˈɪmɪdʒ, bˌʌt juː kæn dˈɛfɪnətli sˈiː ðæt ðɛɹ ɪz ɐ pˈɜːsən hˈɪɹ, ɹˈaɪt? |1
+output_165.wav|sˌoʊ ɪɾ ɪz kˈaɪnd ʌv ɪnsˈaɪtfəl æz wˈɛl tə sˈiː hˌaʊ ðə mˈɑːdəl, hˌaʊ ðə klˈæsɪfˌaɪɚ kænˈɑːt biː tɹˈʌstᵻd kəmplˈiːtli. |1
+output_166.wav|nˈaʊ, ɪf aɪ wˈɔnt tə tˈɔːk ɐbˌaʊt ðɪ ɛɡzˈɪstɪŋ ɐpɹˈoʊtʃ ænd maɪ kˈɜːɹənt ɐpɹˈoʊtʃ, ɹˈaɪt? |1
+output_167.wav|ðə mˈeɪn dˈɪfɹəns ɪz ðɪ aɪdˈiə ʌv jˈuːzɪŋ dˈɪfɚɹˌɛnʃɪəbəl ɹˈɛndɚɹɪŋ. |1
+output_171.wav|ɪf juː lˈʊk æt wɛnˌɛvɚ ðə klˈæsɪfˌaɪɚ ɹᵻtˈɜːnz ɐ sˈɜːʔn̩ vˈæljuː, wiː ðˈɛn bˈæk pɹˈɑːpɐɡˌeɪt ˈɔːl ðə wˈeɪ tə ðə bɪɡˈɪnɪŋ, ˈʌpdeɪt ˌaʊɚ pɚɹˈæmɪɾɚz, ænd ðˈɛn ɹˌiːɹˈɛndɚɹ ˌaʊɚ hˈoʊl ˈɪmɪdʒ. |1
+output_172.wav|sˌoʊ ðæts ɐ mˈeɪdʒɚ dˈɪfɹəns ðæt wiː hæv ɪn ðɪs ˈɑːɹkɪtˌɛktʃɚ. |1
+output_173.wav|nˈaʊ aɪm ɡˌoʊɪŋ tə tˈɔːk ɐbˌaʊt sˌʌm ʌvðə tʃˈælɪndʒᵻz ðæt aɪ fˈeɪsd dˈʊɹɹɪŋ ðɪs pɹˈɑːsɛs. |1
+output_174.wav|sˌoʊ wˈʌn ʌvðə mˈeɪn tʃˈælɪndʒᵻz wʌz dˈiːlɪŋ wɪð sˈʌmθɪŋ kˈɔːld ˈælfəbˈeɪst mətˈɪɹiəlz. |1
+output_175.wav|tə tˈɔːk ɐbˌaʊt ɪt bɹˈiːfli, ˈiːtʃ tˈɛkstʃɚ hɐz sˈɜːʔn̩ pɹˈɑːpɚɾiz ɐtˈætʃt tʊ ɪt. |1
+output_176.wav|sˌoʊ juː hæv ɐ pɹˈɑːpɚɾi kˈɔːld ˈælfə, wˌɪtʃ bˈeɪsɪkli dᵻfˈaɪnz hˌaʊ mˈʌtʃ lˈaɪt kæn ɹᵻflˈɛkt fɹʌm ɐ pɚtˈɪkjʊlɚɹ ˈɑːbdʒɛkt. |1
+output_177.wav|sˌoʊ ɪf ðə vˈæljuː ʌv ˈælfə ɪz hˈaɪ ɪn ɐ pɚtˈɪkjʊlɚɹ ˈɑːbdʒɛkt, ðˈɛn ɪts nˌɑːt ɡˌoʊɪŋ tə ɹᵻflˈɛkt ðə lˈaɪt ɐ lˈɑːt. |1
+output_178.wav|bˌʌt ɪf ðə vˈæljuː ʌv ˈælfə ɪz lˈoʊɚ, ðˈɛn ɪts ɡˌoʊɪŋ tə ɹᵻflˈɛkt ɐ lˈɑːt ʌv lˈaɪt. |1
+output_179.wav|sˌoʊ hˈɪɹ, ɪf juː lˈʊk æt ðɪ ˈɪmɪdʒ, ɪnˈɪʃəli ɪt wˈʌz, aɪ wʌz hˌævɪŋ ɐ hˈɑːɹd tˈaɪm ɹˈɛndɚɹɪŋ ðə lˈiːvz ʌvðə tɹˈiː bɪkˈʌz wɛn jʊɹ ɹˈɛndɚɹɪŋ ðə lˈiːvz ʌvðə tɹˈiː, sˈɜːʔn̩ tˈaɪmz ɪnðə bˈækɡɹaʊnd, bɪkˈʌz ɪts ɐn ˈælfə bˈeɪst mətˈɪɹiəl, ɹˈaɪt? |1
+output_180.wav|juː hæv tə ɹᵻflˈɛkt sˌʌm lˈaɪts wɪðˌɪn ðə lˈiːvz, ɹˈaɪt? |1
+output_184.wav|ðə sˈɛkənd tʃˈælɪndʒ wʌz sˌʌm ʌvðə mətˈɪɹiəlz wɜː nˌɑːt bˌiːɪŋ ɹˈɛd baɪ wɛn aɪ wʌz jˈuːzɪŋ ðə mɪtsˈuːbə θɹˈiː ɹˈɛndɚɹɚ. |1
+output_185.wav|sˌoʊ ɪnˈɪʃəli wɛn aɪ wʌz jˈuːzɪŋ pˈaɪ tˈɔːɹtʃ θɹˈiː dˈiː, aɪ hæd nˈoʊ pɹˈɑːbləmz. |1
+output_186.wav|ɪt wʌz ˌɔːɾəmˈæɾɪkli ɹˈiːdɪŋ ˈɔːl ðə tˈɛkstʃɚz fɹʌmðɪ ˌoʊbˌiːdʒˈeɪ fˈaɪl bɪkˈʌz ðɪ ˌɛmtˌiːˈɛl fˈaɪl ɪz dᵻpˈɛndənt ɔnðɪ ˌoʊbˌiːdʒˈeɪ fˈaɪl, ɹˈaɪt? |1
+output_187.wav|sˌoʊ wɛn juː ɑːɹ ɹˈiːdɪŋ ðɪ ˌoʊbˌiːdʒˈeɪ fˈaɪl, ɪɾ ˌɔːɾəmˈæɾɪkli ɡɹˈæbz ðɪ ˌɪnfɚmˈeɪʃən fɹʌmðə .ˌɛmtˌiːˈɛl fˈaɪl. |1
+output_188.wav|bˌʌt ɪts nˌɑːt sˌoʊ ˈiːzi wɛn ɪt kˈʌmz tə mɪtsˈuːbə θɹˈiː. |1
+output_190.wav|tˈɛkstʃɚz dᵻpˈɛndənt ˌɔn ðæt pɚtˈɪkjʊlɚɹ ˈɑːbdʒɛkt. |1
+output_191.wav|ænd æt ðɪ ˈɛnd, aɪ wʌz ˈeɪbəl tə ɹˈɛndɚɹ ˈɔːl ðə tˈɛkstʃɚz pɹˈɑːpɚli æz juː kæn sˈiː ɪnðɪ ˈɪmɪdʒ hˈɪɹ. |1
+output_193.wav|ænd ðˈɛn wiː kæn ˈɔːlsoʊ kəmpˈɛɹ ðə dɪtˈɛktɚz æz wˈɛl. |1
+output_194.wav|sˌoʊ juː kæn bˈeɪsɪkli tʃˈeɪndʒ ðə dɪtˈɛktɚz. |1
+output_195.wav|lˈaɪk ɹˈaɪt nˈaʊ aɪm jˈuːzɪŋ fˈæstɚɹ ˌɑːɹsˌiːˈɛn ænd ɑːɹ ɔːlɹˌɛdi ɪn ɐ nˈɛt. |1
+output_197.wav|dɪtˈɛktɚz tə sˈʌmθɪŋ lˈaɪk vˈɪʒən tɹænsfˈɔːɹmɚz ɔːɹ ðə ɹˈiːsənt mˈɑːdəlz ðɐthɐzbˌɪn ɹˈiːsəntli lˈɑːntʃt. |1
+output_198.wav|ænd ˈɔːlsoʊ, juː kæn kəmpˈɛɹ ɹˈɛndɚɹɚz. |1
+output_199.wav|ðə mɪtsˈuːbə θɹˈiː pɚfˈɔːɹmz kwˈaɪt dˈɪfɹəntli ðɐn ðə pˈaɪ tˈɛst θɹˈiː, ðə wˈeɪ ɪt hˈæzbiːn dɪzˈaɪnd. |1
+output_200.wav|sˌoʊ ðɛɹ mˌaɪt biː dˈɪfɹənt kwˈɔlᵻɾi ʌv ˈɪmɪdʒᵻz ðæt juː mˌaɪt ɡɛt fɹʌm bˈoʊθ ʌv ðoʊz tˈuː ɹˈɛndɚɹɚz. |1
+output_201.wav|ˈɔːlsoʊ, ðɪs pɹˈɑːdʒɛkt pɹaɪmˈɛɹᵻli fˈoʊkəsᵻz ɔnðɪ aɪdˈiə ʌv jˈuːzɪŋ dˈɪfɚɹˌɛnʃɪəbəl ɹˈɛndɚɹɪŋ. |1
+output_203.wav|æt ðə sˈeɪm tˈaɪm, juː ɑːɹ tɹˈaɪɪŋ tʊ ʌpdˈeɪt jʊɹ pɚɹˈæmɪɾɚz baɪ jˈuːzɪŋ ðæt ɹˈɛndɚd ˈɪmɪdʒ. |1
+output_205.wav|sˌoʊ maɪ mˈeɪdʒɚ nˈɛkst stˈɛp ɪz tə bˈeɪsɪkli ɹˈaɪt sˌʌm skɹˈɪpts ðæt kæn ɹˈʌn ænd tˈɛst əkɹˌɑːs vˈɛɹiəs pɚɹˈæmɪɾɚz. |1
+output_206.wav|aɪ hæv fˈaɪv dˈɪfɹənt pɚɹˈæmɪɾɚz dᵻfˈaɪnd. |1
+output_207.wav|ænd aɪ wˈɔnt tə ɹˈʌn ðə skɹˈɪpts fɔːɹ ɐbˌaʊt tˈɛn θˈaʊzənd ɔːɹ wˈʌn θˈaʊzənd ˈɛpɑːkz sˈʌtʃ ðætðɪ ˈɪmɪdʒ ɪz ɐtʃˈiːvd. |1
+output_208.wav|aɪ wˈɔnt tʊ ɐtʃˈiːv ðɪ ˈɪmɪdʒ əkɹˌɑːs ˈɔːl ðoʊz pɚɹˈæmɪɾɚz. |1

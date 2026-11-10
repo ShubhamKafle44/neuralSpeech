@@ -1,0 +1,18 @@
+output_209.wav|ænd ðə mˈeɪn aɪdˈiə ɪz dʒˈʌst tə fˈaɪnd ðɪ ˈɑːptɪməl ˈɪmɪdʒ. |1
+output_211.wav|sˌoʊ kˈɜːɹəntli, maɪ ɐpɹˈoʊtʃ ɪz tə mˈɪnɪmˌaɪz ðə kˈɜːɹənt klˈæs. |1
+output_212.wav|sˌoʊ æt ðə bɪɡˈɪnɪŋ, juː dᵻfˈaɪn ðə θɹˈiː dˈiː mˈɑːdəlz klˈæs ðæt jʊɹ tɹˈaɪɪŋ tʊ aɪdˈɛntᵻfˌaɪ. |1
+output_213.wav|ænd ðɪ ɐtˈæk ɪz bˈeɪsɪkli tˈɑːɹɡɪɾᵻd tə dˈiːkɹiːs ðə pɹˌɑːbəbˈɪlᵻɾi ʌvðə θɹˈiː dˈiː mˈɑːdəl klˈæs. |1
+output_214.wav|bˌʌt ɐ dˈɪfɹənt ɐpɹˈoʊtʃ ɪz tə bˈeɪsɪkli mˈæksɪmˌaɪz ðə pɹˌɑːbəbˈɪlᵻɾi ʌv ˈɔːl ðə lˈeɪbəlz ɐpˈɑːɹt fɹʌmðə θɹˈiː dˈiː mˈɑːdəlz. |1
+output_216.wav|sˌoʊ wɛn juː dᵻfˈaɪn ðə θɹˈiː dˈiː mˈɑːdəl, lˈɛts sˈeɪ ɐ pˈɜːsən, juː wˈɔnt tʊ aɪdˈɛntᵻfˌaɪ, juː wˈɔnt tə bˈeɪsɪkli mˈæksɪmˌaɪz ðə pɹˌɑːbəbˈɪlᵻɾi ʌv ˈɔːl ðə klˈæs lˈeɪbəlz ɐpˈɑːɹt fɹʌmðə pˈɜːsən lˈeɪbəl. |1
+output_219.wav|ˌoʊkˈeɪ, nˈaʊ aɪm ɡˌoʊɪŋ tə tˈɔːk ɐbˌaʊt sˌʌm ʌvðə kˈɜːɹənt lˌɪmɪtˈeɪʃənz ʌv maɪ pɹˈɑːdʒɛkt. |1
+output_220.wav|sˌoʊ wˈʌn ʌvðə mˈeɪn lˌɪmɪtˈeɪʃənz ʌv maɪ pɹˈɑːdʒɛkt ɪz bˈeɪsɪkli juː kæn ˈoʊnli ɹˈɛndɚ wˈʌn mˈɑːdəl |1
+output_222.wav|sˌoʊ lˈeɪɾɚɹ ˈɔn, ɪf juː wˈɔnt tuː, lˈɛts sˈeɪ, ɹˈɛndɚ mˌʌltɪpəl mˈɑːdəlz ˌɪntʊ wˈʌn sˈiːn, ɪt kæn biː ɐ lˈɪɾəl bˈɪt tɹˈɪki tə dˈuː ðˈæt. |1
+output_223.wav|sˌoʊ aɪ θˈɪŋk fˈɪksɪŋ ðoʊz ˈɪʃuːz wʊd biː bˈɛɾɚɹ ɪnðə fjˈuːtʃɚ. |1
+output_224.wav|sˈɪmɪlɚli, ɪts ɐ sˌɪmjʊlˈeɪʃən bˈeɪst. |1
+output_225.wav|ɪts ɐ sˌɪmjʊlˈeɪʃən ˈoʊnli tə ðə ɹˈiːəl ɛnvˈaɪɹənmənt, mˈiːnɪŋ ðˌɐɾɪt dˈʌzənt ˈæktʃuːəli ɹᵻflˈɛkt ðə ɹˈiːəl wˈɜːld sənˈæɹiˌoʊ ɪn sˈɜːʔn̩ kˈeɪsᵻz. |1
+output_226.wav|bˌʌt wɪɹ tɹˈaɪɪŋ tə pɹədˈuːs ɐ hˈaɪ kwˈɔlᵻɾi ˈɪmɪdʒ sˈʌtʃ ðˌɐɾɪt lˈʊks kwˈaɪt sˈɪmɪlɚ tə ðə ɹˈiːəl wˈɜːld ɛnvˈaɪɹənmənt. |1
+output_227.wav|sˈʌmθɪŋ aɪ ˈɔːlsoʊ wˈɔnt tə mˈɛnʃən ɪz ðɛɹz ɐ nˈuː pˈeɪpɚ ðɐthɐzbˌɪn ɹˈiːsəntli ɹᵻlˈiːst ɐbˌaʊt ɹᵻlˈaɪɾəbəl kˈæməflˌɑːʒ. |1
+output_228.wav|ɪts ɐ tˈuː θˈaʊzənd twˈɛnti sˈɪks ɹˈiːsəntli ɹᵻlˈiːst pˈeɪpɚ, wˌɪtʃ pɹaɪmˈɛɹᵻli tˈɔːks ɐbˌaʊt hˌaʊ tʃˈeɪndʒɪŋ lˈaɪt kæn ɐfˈɛkt ðə kˈɜːɹənt θɹˈiː dˈiː mˈɑːdəlz. |1
+output_229.wav|ɪt tˈɔːks ɐbˌaʊt hˌaʊ tʃˈeɪndʒɪŋ ðə ʃˈædoʊz əvə pɚtˈɪkjʊlɚ θɹˈiː dˈiː mˈɑːdəl ænd kɹiːˈeɪɾɪŋ ðə kˈæməflˌɑːʒ tˈɛkstʃɚ baɪ jˈuːzɪŋ ðoʊz lˈaɪɾɪŋ kæn ɐfˈɛkt ðə kˈɜːɹənt θɹˈiː dˈiː klˈæsɪfˌaɪɚz. |1
+output_230.wav|sˌoʊ aɪ θˈɪŋk ɹˈiːdɪŋ ðɪs pˈeɪpɚ wɪl ɡˈɪv mˌiː ɐ lˈɪɾəl bˈɪt mˈɔːɹ aɪdˈiə ɐbˌaʊt wˌɛɹ maɪ ɹᵻsˈɜːtʃ kæn hˈɛd tuː. |1
+output_231.wav|ænd ðiːz ɑːɹ sˌʌm ʌvðə ɹˈɛfɹənsᵻz ðæt aɪ jˈuːzd θɹuːˈaʊt ðə pɹˈɑːdʒɛkt. |1
