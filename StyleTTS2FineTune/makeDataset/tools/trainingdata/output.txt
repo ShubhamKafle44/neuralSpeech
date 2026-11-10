@@ -1,0 +1,174 @@
+output_1.wav|Today I'll be talking about my research progress.|1
+output_2.wav|I'm currently working under Professor Lee and primarily focusing on|1
+output_3.wav|trying to create a pipeline for adversarial attacks against current classifiers that we have in the market.|1
+output_5.wav|So trying to create such image such that modern classifiers fails.|1
+output_7.wav|So basically, the main topic is adversarial scene search with differentiable rendering.|1
+output_8.wav|Basically, the main idea is to fool object detectors by changing the 3D scene.|1
+output_9.wav|So first, we need to understand the problem.|1
+output_10.wav|What are the previously done research on this particular topic?|1
+output_11.wav|So if you talk about the previous done research, primarily what people did was they usually used to take a 2D image, it's a 2D standard image, and you basically change certain pixels of those images.|1
+output_12.wav|So you basically add with a noise or you add different RGB values into that particular pixel and then you alter those pixels and create a new 2D image by using the existing 2D image.|1
+output_13.wav|And you send the new designed 2D image to the classifier and you're trying to find out an image where the classifier fails to detect the object.|1
+output_15.wav|And also people are considering to do a 3D-based text.|1
+output_16.wav|So what they essentially do is rather than using a 2D pre-built image, they create a new image by using a 3D scene and environment.|1
+output_18.wav|But what I'm primarily doing here is basically I'm using something called differentiable rendering.|1
+output_19.wav|So rather than using manual or random operations, random search operations to find that image, I'm trying to use differentiable rendering to find that image where the classifier fails to predict the object in that particular scene.|1
+output_20.wav|First, we need to talk a little bit about how actually a 3D model works.|1
+output_21.wav|So whenever you're talking about 3D models, 3D models are primarily stored in a .obj file, which is a .object file.|1
+output_22.wav|And it also consists, it also is linked to another file called .mtl file, which is the .material file.|1
+output_23.wav|And if you look at the .obj file, usually you have vertex, right?|1
+output_24.wav|Each model is composed of millions, like hundreds, thousands of 3D points, and those points are interconnected with each other to form a face, right?|1
+output_26.wav|So you first define all the vertex, and then you connect those vertex into a triangle by using a face, right?|1
+output_27.wav|And when you connect all of those triangles together, then you form the 3D model.|1
+output_28.wav|And then what about the textures or the color of the model, right?|1
+output_29.wav|Basically, then what you do is you take those faces and then you map the faces with a particular .mtl file, right?|1
+output_30.wav|The .mtl file basically has links to various images.|1
+output_32.wav|So the UV mapped image, the UV mapped, the model is basically UV mapped by using the .mtl image.|1
+output_33.wav|And that's how you get all those textures into the model.|1
+output_34.wav|And something that I want to talk about here is something called path tracing.|1
+output_35.wav|where this is usually used in gaming technology.|1
+output_36.wav|This is usually used to get a highly rendered good quality image when you're rendering a 3D scene.|1
+output_37.wav|So what essentially happens here is you have a light source and the light source basically emits some light, right?|1
+output_38.wav|And then you can set how many times that you want the light to actually bounce from another object.|1
+output_39.wav|So if you increase the number of bounces, right, which is basically called sample per pixel, if you increase the sample per pixel, then it's going to increase the quality of the image because you're bouncing the light multiple times, right?|1
+output_40.wav|It's calculating how much light does a particular surface observe or basically emit, right?|1
+output_41.wav|So path tracing is usually used to get that shadows into the image.|1
+output_42.wav|You get the perfect quality how the light actually affects the model in the particular scene, right?|1
+output_43.wav|Also, something about rasterization.|1
+output_44.wav|So in rasterization, what you essentially do is, rather than using path tracing, like I said, you use a light source, and the light source sends some light.|1
+output_45.wav|But in rasterization, what happens is you basically have the 3D triangles and the faces.|1
+output_46.wav|You basically flatten those faces onto a plane, and then you render the shadows like that.|1
+output_47.wav|So it's much more faster because you're not dealing with how light bounces and everything through each object.|1
+output_48.wav|So it's much more faster when it comes to path tracing.|1
+output_49.wav|And here, I'm using two primary libraries to render my image.|1
+output_50.wav|I'm using PyTorch 3D, and the next renderer that I'm using is Mitsuba 3.|1
+output_51.wav|So the PyTorch 3D uses rasterization, whereas the Mitsuba 3 uses path tracing.|1
+output_52.wav|So when it comes to quality of image, you're getting a better quality of image in Mitsuba 3 because you are counting the actual light path as well from the light source to the object.|1
+output_53.wav|But in rasterization, you don't get the shadow in the images because the light is not being bounced off in modal and things like that.|1
+output_55.wav|So as I said before, the main reason of choosing this is basically to study how lighting affects the particular model and 3D scene.|1
+output_56.wav|Because if you're using Mitsuba 3, you get those shadows, and you get the actual color of the model right after the light is being reflected.|1
+output_57.wav|However, if you want a faster base render, PyTorch 3D is much more faster compared to Mitsuba 3.|1
+output_58.wav|So now I'm going to talk a little bit about how the system architecture looks like.|1
+output_59.wav|So first, you basically have a scene, right?|1
+output_61.wav|In the scene, you first render the 3D scene, right?|1
+output_63.wav|And on top of that scene, you basically render a 3D model, right?|1
+output_66.wav|You basically read the OBJ file by using the renderer and render that model into the 3D scene, right?|1
+output_67.wav|After getting that whole scene ready, what you do is you basically click an image by using a camera sensor.|1
+output_69.wav|And you also tell the classifier, hey, I have this 3D model in my image.|1
+output_70.wav|What is the probability that there is this model in the image?|1
+output_71.wav|So let's say I have a person in my 3D scene.|1
+output_72.wav|So what I basically say to the detector is, I have a person in this scene.|1
+output_73.wav|Can you please give me the probability of this image having a person?|1
+output_74.wav|And then the detector is basically going to reply back with the probability that the image might have a person in it.|1
+output_77.wav|the scene where the model fails.|1
+output_81.wav|And when you get a feedback from the classifier, you back propagate again back to the 3D scene and then change the position or any other properties that you're working on.|1
+output_84.wav|Then you back propagate again and try to minimize the loss here.|1
+output_85.wav|That's the way we can use gradient path in this situation.|1
+output_86.wav|OK, so what did I build actually in this project?|1
+output_87.wav|So let's talk a little bit briefly about what I built.|1
+output_88.wav|So first, I built a basic rendering architecture where you can keep the 3D OBJ file and then the materials for that OBJ file to the renderer.|1
+output_89.wav|And it will render you the scene and give you the 2D image.|1
+output_91.wav|And then I also built an architecture where you can basically attack through five different surfaces.|1
+output_92.wav|So you can either change the position, rotation, pose, lighting, or texture of the model.|1
+output_94.wav|And we can look at which position or which rotation, which pose, which lighting, or which texture pulls the model.|1
+output_96.wav|And we can look into these properties and try to find that optimal image where the classifier pulls itself.|1
+output_97.wav|And also, I have defined some constraints, like the model should be within the image.|1
+output_98.wav|You don't want the model to be outside of the image that you have captured.|1
+output_100.wav|a desktop application where you can randomly change the position or the light or yaw or rotation of that particular model and find an image where the classifier fools itself.|1
+output_104.wav|If your GP is changing its position randomly, right?|1
+output_107.wav|And in the right top hand side, you can see the output by the classifier.|1
+output_108.wav|So now the classifier thinks that it has a high probability for it being a pickup truck.|1
+output_109.wav|But if you run it a couple of times, it keeps on changing.|1
+output_111.wav|It thinks that the object that you have in the scene is a car wheel.|1
+output_112.wav|So you're basically trying to change the position and trying to find an image where the classifier is not able to identify it as a Jeep anymore.|1
+output_113.wav|So what are the five properties that I'm primarily attacking or trying to change, basically?|1
+output_114.wav|So the five main properties that I'm trying to change is position, rotation, pose, lighting, and textures, right?|1
+output_115.wav|So in the position, what I did was it's not moving on the y-axis here.|1
+output_116.wav|So usually when you are, each renderer has a different axis system.|1
+output_117.wav|So the renderer that I'm using, the y-axis is upwards and downwards.|1
+output_118.wav|So I'm trying to fix the y-position because I don't want the model to float around the scene, right?|1
+output_119.wav|I want it to be fixed in a particular axis, right?|1
+output_121.wav|That's the reason why I fix the y-axis and I only change the x and z-axis here.|1
+output_125.wav|So basically sometimes, some of the research papers also do texture-based adversarial attacks.|1
+output_126.wav|In that kind of attack, what you basically do is you change the texture of the 3D model.|1
+output_127.wav|And you're trying to create this camouflage of the 3D model with its environment.|1
+output_128.wav|So you're trying to fool the model by making similar color of the model textures to its background.|1
+output_129.wav|So that's how you can build texture-based adversarial attacks.|1
+output_132.wav|light are basically the properties that you have defined from the tensors and rebuilding the whole scene.|1
+output_133.wav|You first take the input and then rebuild the whole scene.|1
+output_134.wav|Then what you do, you basically send that image, capture that image and send it to a classifier.|1
+output_135.wav|The classifier basically gives back the probability of the object.|1
+output_138.wav|You optimize your whole weights and bias on the basis of that value, right?|1
+output_139.wav|You're trying to minimize the probability of the model, right?|1
+output_140.wav|So on the basis of the output given by the classifier, you go backward and then you update all of those parameters accordingly.|1
+output_144.wav|re-render the whole scene again with the new updated parameters.|1
+output_145.wav|And when you get that new updated parameter, when you build the whole scene by render, you repeat the process, right?|1
+output_146.wav|You repeat the process until and unless you find a certain image where the probability of the model decreases a lot, right?|1
+output_147.wav|And that's the general process of how the backend here works.|1
+output_149.wav|This is one of the approaches that I initially took.|1
+output_150.wav|So my initial proper approach was to basically use a greedy based approach.|1
+output_151.wav|So what I was trying to do is I was trying to randomly change the position of the model in the 3D environment and trying to find an image where the classifier folds itself.|1
+output_152.wav|So that's the greedy approach that I took.|1
+output_153.wav|Talking about visuals, this is how the actual 2D image looks like after rendering the whole 3D model, right?|1
+output_154.wav|If you look here, the model here is the human and the background here is a 3D scene.|1
+output_155.wav|Like the 3D scene here is like roads and house, right?|1
+output_157.wav|So what I did initially was I rendered the whole 3D scene.|1
+output_158.wav|Then I rendered the 3D model here in that particular 3D scene and captured this image by a camera object in the scene.|1
+output_159.wav|So now if you look here, this is what I achieved when I did random based|1
+output_161.wav|I was able to achieve this image on the right hand side.|1
+output_162.wav|In this image, when I sent this image to the classifier, it told me that there's a 42.44% chance that the image has a person in it.|1
+output_164.wav|Like even it might not look that clear from this particular image, but you can definitely see that there is a person here, right?|1
+output_165.wav|So it is kind of insightful as well to see how the model, how the classifier cannot be trusted completely.|1
+output_166.wav|Now, if I want to talk about the existing approach and my current approach, right?|1
+output_167.wav|The main difference is the idea of using differentiable rendering.|1
+output_171.wav|If you look at whenever the classifier returns a certain value, we then back propagate all the way to the beginning, update our parameters, and then re-render our whole image.|1
+output_172.wav|So that's a major difference that we have in this architecture.|1
+output_173.wav|Now I'm going to talk about some of the challenges that I faced during this process.|1
+output_174.wav|So one of the main challenges was dealing with something called alpha-based materials.|1
+output_175.wav|To talk about it briefly, each texture has certain properties attached to it.|1
+output_176.wav|So you have a property called alpha, which basically defines how much light can reflect from a particular object.|1
+output_177.wav|So if the value of alpha is high in a particular object, then it's not going to reflect the light a lot.|1
+output_178.wav|But if the value of alpha is lower, then it's going to reflect a lot of light.|1
+output_179.wav|So here, if you look at the image, initially it was, I was having a hard time rendering the leaves of the tree because when you're rendering the leaves of the tree, certain times in the background, because it's an alpha based material, right?|1
+output_180.wav|You have to reflect some lights within the leaves, right?|1
+output_184.wav|The second challenge was some of the materials were not being read by when I was using the Mitsuba3 renderer.|1
+output_185.wav|So initially when I was using PyTorch3D, I had no problems.|1
+output_186.wav|It was automatically reading all the textures from the OBJ file because the MTL file is dependent on the OBJ file, right?|1
+output_187.wav|So when you are reading the OBJ file, it automatically grabs the information from the .mtl file.|1
+output_188.wav|But it's not so easy when it comes to Mitsuba3.|1
+output_190.wav|textures dependent on that particular object.|1
+output_191.wav|And at the end, I was able to render all the textures properly as you can see in the image here.|1
+output_193.wav|And then we can also compare the detectors as well.|1
+output_194.wav|So you can basically change the detectors.|1
+output_195.wav|Like right now I'm using faster RCN and are already in a net.|1
+output_197.wav|detectors to something like vision transformers or the recent models that has been recently launched.|1
+output_198.wav|And also, you can compare renderers.|1
+output_199.wav|The Mitsuba 3 performs quite differently than the PyTest 3, the way it has been designed.|1
+output_200.wav|So there might be different quality of images that you might get from both of those two renderers.|1
+output_201.wav|Also, this project primarily focuses on the idea of using differentiable rendering.|1
+output_203.wav|At the same time, you are trying to update your parameters by using that rendered image.|1
+output_205.wav|So my major next step is to basically write some scripts that can run and test across various parameters.|1
+output_206.wav|I have five different parameters defined.|1
+output_207.wav|And I want to run the scripts for about 10,000 or 1,000 epochs such that the image is achieved.|1
+output_208.wav|I want to achieve the image across all those parameters.|1
+output_209.wav|And the main idea is just to find the optimal image.|1
+output_211.wav|So currently, my approach is to minimize the current class.|1
+output_212.wav|So at the beginning, you define the 3D models class that you're trying to identify.|1
+output_213.wav|And the attack is basically targeted to decrease the probability of the 3D model class.|1
+output_214.wav|But a different approach is to basically maximize the probability of all the labels apart from the 3D models.|1
+output_216.wav|So when you define the 3D model, let's say a person, you want to identify, you want to basically maximize the probability of all the class labels apart from the person label.|1
+output_219.wav|OK, now I'm going to talk about some of the current limitations of my project.|1
+output_220.wav|So one of the main limitations of my project is basically you can only render one model|1
+output_222.wav|So later on, if you want to, let's say, render multiple models into one scene, it can be a little bit tricky to do that.|1
+output_223.wav|So I think fixing those issues would be better in the future.|1
+output_224.wav|Similarly, it's a simulation based.|1
+output_225.wav|It's a simulation only to the real environment, meaning that it doesn't actually reflect the real world scenario in certain cases.|1
+output_226.wav|But we're trying to produce a high quality image such that it looks quite similar to the real world environment.|1
+output_227.wav|Something I also want to mention is there's a new paper that has been recently released about relightable camouflage.|1
+output_228.wav|It's a 2026 recently released paper, which primarily talks about how changing light can affect the current 3D models.|1
+output_229.wav|It talks about how changing the shadows of a particular 3D model and creating the camouflage texture by using those lighting can affect the current 3D classifiers.|1
+output_230.wav|So I think reading this paper will give me a little bit more idea about where my research can head to.|1
+output_231.wav|And these are some of the references that I used throughout the project.|1
+output1_0.wav|The storm hit just as the sun dipped below the horizon, casting the sky in a fiery hue that quickly faded to black.|1
+output1_1.wav|Elena's boat rocked violently on the churning sea, the waves crashing against the side with a deafening roar.|1
+output1_2.wav|She gripped the worn wooden wheel, her knuckles white, her heart racing somewhere in the darkness ahead.|1
