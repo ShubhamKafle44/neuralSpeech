@@ -62,31 +62,4 @@ services:
               count: 1
               capabilities: [gpu]
 
-  make-an-audio-api:
-    build:
-      context: ./Make-An-Audio
-      dockerfile: Dockerfile.api
-    image: ${MAKE_AN_AUDIO_IMAGE:-neural-speech-make-an-audio:local}
-    environment:
-      API_KEY: ${BACKEND_API_KEY:?Set BACKEND_API_KEY in frontend/.env}
-      AWS_REGION: ${AWS_REGION:?Set AWS_REGION in frontend/.env}
-      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID:-}
-      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY:-}
-      S3_BUCKET: ${S3_BUCKET_NAME:?Set S3_BUCKET_NAME in frontend/.env}
-      S3_PREFIX: ${MAKE_AN_AUDIO_S3_PREFIX:-make-an-audio-outputs}
-    ports:
-      - "8002:8000"
-    restart: unless-stopped
-    healthcheck:
-      test: ["CMD-SHELL", "python -c \"import os,urllib.request; urllib.request.urlopen(urllib.request.Request('http://127.0.0.1:8000/health', headers={'Authorization':os.environ['API_KEY']}))\""]
-      interval: 30s
-      timeout: 10s
-      retries: 5
-      start_period: 10m
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: 1
-              capabilities: [gpu]
+ 
