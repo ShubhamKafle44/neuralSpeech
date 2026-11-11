@@ -1,6 +1,5 @@
 "use client";
 
-import { doesNotMatch } from "assert";
 import { useEffect, useState } from "react";
 import toast from "react-hot-toast";
 import { FaUpload } from "react-icons/fa";
@@ -14,7 +13,20 @@ import { useAudioStore } from "~/stores/audio-store";
 import { useVoiceStore } from "~/stores/voice-store";
 import { ServiceType } from "~/types/services";
 
-const ALLOWED_AUDIO_TYPES = ["audio/mp3", "audio/wav"];
+const getSupportedAudioType = (file: File): "audio/mpeg" | "audio/wav" | null => {
+  const extension = file.name.split(".").pop()?.toLowerCase();
+
+  // Browsers report WAV files with different MIME types (or no type at all).
+  if (extension === "mp3") return "audio/mpeg";
+  if (extension === "wav") return "audio/wav";
+
+  if (["audio/mpeg", "audio/mp3"].includes(file.type)) return "audio/mpeg";
+  if (["audio/wav", "audio/x-wav", "audio/wave"].includes(file.type)) {
+    return "audio/wav";
+  }
+
+  return null;
+};
 
 export function VoiceChanger({
   credits,
@@ -32,14 +44,14 @@ export function VoiceChanger({
   const getSelectedVoice = useVoiceStore((state) => state.getSelectedVoice);
 
   const handleFileSelect = (selectedFile: File) => {
-    const isAllowedAudio = ALLOWED_AUDIO_TYPES.includes(selectedFile.type);
+    const supportedAudioType = getSupportedAudioType(selectedFile);
     const isUnder50MB = selectedFile.size <= 50 * 1024 * 1024;
 
-    if (isAllowedAudio && isUnder50MB) {
+    if (supportedAudioType && isUnder50MB) {
       setFile(selectedFile);
     } else {
       alert(
-        isAllowedAudio
+        supportedAudioType
           ? "File is too large. Max size is 50MB"
           : "Please select an MP3 or WAV file only",
       );
@@ -54,13 +66,16 @@ export function VoiceChanger({
     try {
       setIsLoading(true);
 
-      const { uploadUrl, s3Key } = await generateUploadUrl(file.type);
+      const contentType = getSupportedAudioType(file);
+      if (!contentType) throw new Error("Only MP3 and WAV files are supported");
+
+      const { uploadUrl, s3Key } = await generateUploadUrl(contentType);
 
       const uploadResponse = await fetch(uploadUrl, {
         method: "PUT",
         body: file,
         headers: {
-          "Content-Type": file.type,
+          "Content-Type": contentType,
         },
       });
 
@@ -154,7 +169,7 @@ export function VoiceChanger({
 
               const input = document.createElement("input");
               input.type = "file";
-              input.accept = "audio/mp3,audio/wav";
+              input.accept = ".mp3,.wav,audio/mpeg,audio/wav,audio/x-wav";
               input.onchange = (e) => {
                 const target = e.target as HTMLInputElement;
                 if (target.files && target.files.length > 0) {

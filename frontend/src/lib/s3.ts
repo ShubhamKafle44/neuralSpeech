@@ -35,16 +35,19 @@ export async function getUploadUrl(fileType: string): Promise<{
   uploadUrl: string;
   s3Key: string;
 }> {
-  // Only allow MP3 and WAV file types
-  const allowedTypes = ["audio/mp3", "audio/wav"];
+  // Browsers use several MIME types for MP3 and WAV files.
+  const normalizedType =
+    fileType === "audio/mpeg" || fileType === "audio/mp3"
+      ? "audio/mpeg"
+      : ["audio/wav", "audio/x-wav", "audio/wave"].includes(fileType)
+        ? "audio/wav"
+        : null;
 
-  if (!allowedTypes.includes(fileType)) {
+  if (!normalizedType) {
     throw new Error("Only MP3 and WAV files are supported");
   }
 
-  // Get file extension for better organization in S3
-  const extension =
-    fileType === "audio/mpeg" || fileType === "audio/mp3" ? "mp3" : "wav";
+  const extension = normalizedType === "audio/mpeg" ? "mp3" : "wav";
 
   // Create a structured key with the extension
   const s3Key = `seed-vc-audio-uploads/${crypto.randomUUID()}.${extension}`;
@@ -53,7 +56,7 @@ export async function getUploadUrl(fileType: string): Promise<{
   const command = new PutObjectCommand({
     Bucket: env.S3_BUCKET_NAME,
     Key: s3Key,
-    ContentType: fileType,
+    ContentType: normalizedType,
   });
 
   // Generate presigned URL that allows direct upload from client
