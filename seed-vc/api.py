@@ -5,7 +5,7 @@ from contextlib import asynccontextmanager
 from tempfile import NamedTemporaryFile
 
 import boto3
-import torchaudio
+import soundfile as sf
 from fastapi import BackgroundTasks, Depends, FastAPI, Header, HTTPException
 from fastapi.security import APIKeyHeader
 from pydantic import BaseModel
@@ -89,8 +89,6 @@ app = FastAPI(title="Seed-VC API",
 
 TARGET_VOICES = {
     "shubham": SHUBHAM_REFERENCE_AUDIO,
-    "woman": "examples/reference/s1p1.wav",
-    "trump": "examples/reference/trump_0.wav",
 }
 
 
@@ -134,7 +132,7 @@ async def generate_speech(request: VoiceConversionRequest, background_tasks: Bac
 
         os.unlink(source_temp.name)
 
-        torchaudio.save(local_path, vc_wave, sr)
+        sf.write(local_path, vc_wave.squeeze().cpu().numpy(), sr)
 
         # Upload to S3
         s3_key = f"{S3_PREFIX}/{output_filename}"

@@ -1,11 +1,27 @@
-version: "3.8"
+name: neural-speech
 
 services:
   styletts2-api:
-    image: ecreimagehere
+    build:
+      context: ./StyleTTS2
+      dockerfile: Dockerfile.api
+    image: ${STYLETTS2_IMAGE:-neural-speech-styletts2:local}
+    environment:
+      API_KEY: ${BACKEND_API_KEY:?Set BACKEND_API_KEY in frontend/.env}
+      AWS_REGION: ${AWS_REGION:?Set AWS_REGION in frontend/.env}
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID:-}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY:-}
+      S3_BUCKET: ${S3_BUCKET_NAME:?Set S3_BUCKET_NAME in frontend/.env}
+      S3_PREFIX: ${STYLETTS2_S3_PREFIX:-styletts2-output}
     ports:
       - "8000:8000"
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import os,urllib.request; urllib.request.urlopen(urllib.request.Request('http://127.0.0.1:8000/health', headers={'Authorization':os.environ['API_KEY']}))\""]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 10m
     deploy:
       resources:
         reservations:
@@ -15,10 +31,29 @@ services:
               capabilities: [gpu]
 
   seedvc-api:
-    image: ecreimagehere
+    build:
+      context: ./seed-vc
+      dockerfile: Dockerfile.api
+    image: ${SEEDVC_IMAGE:-neural-speech-seedvc:local}
+    environment:
+      API_KEY: ${BACKEND_API_KEY:?Set BACKEND_API_KEY in frontend/.env}
+      AWS_REGION: ${AWS_REGION:?Set AWS_REGION in frontend/.env}
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID:-}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY:-}
+      S3_BUCKET: ${S3_BUCKET_NAME:?Set S3_BUCKET_NAME in frontend/.env}
+      S3_PREFIX: ${SEEDVC_S3_PREFIX:-seedvc-outputs}
+      SEEDVC_CHECKPOINT: ${SEEDVC_CHECKPOINT:-./runs/shubham_voice/ft_model.pth}
+      SEEDVC_CONFIG: ${SEEDVC_CONFIG:-./runs/shubham_voice/config_dit_mel_seed_uvit_whisper_small_wavenet.yml}
+      SEEDVC_SHUBHAM_REFERENCE: ${SEEDVC_SHUBHAM_REFERENCE:-./examples/reference/shubham1.wav}
     ports:
       - "8001:8000"
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import os,urllib.request; urllib.request.urlopen(urllib.request.Request('http://127.0.0.1:8000/health', headers={'Authorization':os.environ['API_KEY']}))\""]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 10m
     deploy:
       resources:
         reservations:
@@ -28,10 +63,26 @@ services:
               capabilities: [gpu]
 
   make-an-audio-api:
-    image: ecreimagehere
+    build:
+      context: ./Make-An-Audio
+      dockerfile: Dockerfile.api
+    image: ${MAKE_AN_AUDIO_IMAGE:-neural-speech-make-an-audio:local}
+    environment:
+      API_KEY: ${BACKEND_API_KEY:?Set BACKEND_API_KEY in frontend/.env}
+      AWS_REGION: ${AWS_REGION:?Set AWS_REGION in frontend/.env}
+      AWS_ACCESS_KEY_ID: ${AWS_ACCESS_KEY_ID:-}
+      AWS_SECRET_ACCESS_KEY: ${AWS_SECRET_ACCESS_KEY:-}
+      S3_BUCKET: ${S3_BUCKET_NAME:?Set S3_BUCKET_NAME in frontend/.env}
+      S3_PREFIX: ${MAKE_AN_AUDIO_S3_PREFIX:-make-an-audio-outputs}
     ports:
       - "8002:8000"
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import os,urllib.request; urllib.request.urlopen(urllib.request.Request('http://127.0.0.1:8000/health', headers={'Authorization':os.environ['API_KEY']}))\""]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 10m
     deploy:
       resources:
         reservations:

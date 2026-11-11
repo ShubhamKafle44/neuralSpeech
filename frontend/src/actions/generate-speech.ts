@@ -76,38 +76,6 @@ export async function generateSpeechToSpeech(
   };
 }
 
-export async function generateSoundEffect(prompt: string) {
-  const session = await auth();
-  if (!session?.user.id) {
-    throw new Error("User not authenticated");
-  }
-
-  const audioClipJob = await db.generatedAudioClip.create({
-    data: {
-      text: prompt,
-      user: {
-        connect: {
-          id: session.user.id,
-        },
-      },
-      service: "make-an-audio",
-    },
-  });
-
-  await inngest.send({
-    name: "generate.request",
-    data: {
-      audioClipId: audioClipJob.id,
-      userId: session.user.id,
-    },
-  });
-
-  return {
-    audioId: audioClipJob.id,
-    shouldShowThrottleAlert: await shouldShowThrottleAlert(session.user.id),
-  };
-}
-
 const shouldShowThrottleAlert = async (userId: string) => {
   const oneMinuteAgo = new Date();
   oneMinuteAgo.setMinutes(oneMinuteAgo.getMinutes() - 1);
@@ -165,9 +133,6 @@ const revalidateBasedOnService = async (service: ServiceType) => {
       break;
     case "seedvc":
       revalidatePath("/app/speech-synthesis/speech-to-speech");
-      break;
-    case "make-an-audio":
-      revalidatePath("/app/sound-effects/history");
       break;
   }
 };

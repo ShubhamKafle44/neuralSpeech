@@ -57,17 +57,6 @@ export const aiGenerationFunction = inngest.createFunction(
             target_voice: audioClip.voice,
           }),
         });
-      } else if (audioClip.service === "make-an-audio") {
-        response = await fetch(env.MAKE_AN_AUDIO_API_ROUTE + "/generate", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Authorization: env.BACKEND_API_KEY,
-          },
-          body: JSON.stringify({
-            prompt: audioClip.text,
-          }),
-        });
       }
 
       if (!response) {

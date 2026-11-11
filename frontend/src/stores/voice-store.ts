@@ -24,27 +24,9 @@ const voices: Voice[] = [
     service: "styletts2",
   },
   {
-    id: "woman",
-    name: "Woman",
-    gradientColors: GRADIENT_COLORS[1]!,
-    service: "styletts2",
-  },
-  {
     id: "shubham",
     name: "shubham",
     gradientColors: GRADIENT_COLORS[0]!,
-    service: "seedvc",
-  },
-  {
-    id: "woman",
-    name: "Woman",
-    gradientColors: GRADIENT_COLORS[1]!,
-    service: "seedvc",
-  },
-  {
-    id: "trump",
-    name: "Trump",
-    gradientColors: GRADIENT_COLORS[2]!,
     service: "seedvc",
   },
 ];
@@ -66,7 +48,6 @@ export const useVoiceStore = create<VoiceState>((set, get) => ({
   selectedVoices: {
     styletts2: defaultStyleTTS2Voice,
     seedvc: defaultSeedVCVoice,
-    "make-an-audio": null,
   },
   getVoices: (service) => {
     return get().voices.filter((voice) => voice.service === service);

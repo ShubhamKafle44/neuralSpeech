@@ -7,7 +7,6 @@ import { ReactNode, useEffect, useRef, useState } from "react";
 import {
   IoChatboxOutline,
   IoMicOutline,
-  IoMusicalNotesOutline,
   IoPersonOutline,
   IoPinOutline,
 } from "react-icons/io5";
@@ -66,9 +65,11 @@ export default function Sidebar({ isMobile = false }: { isMobile?: boolean }) {
               {isExpanded ? (
                 <IoPinOutline className="h-5 w-5" />
               ) : (
-                <div className="flex h-fit w-fit items-center justify-center rounded-lg bg-white px-3 py-2 shadow">
-                  <span className="text-md font-bold text-black">12</span>
-                </div>
+                <img
+                  src="/favicon.ico"
+                  alt="NeuralSpeech"
+                  className="h-6 w-6 object-contain"
+                />
               )}
             </div>
           </button>
@@ -93,14 +94,6 @@ export default function Sidebar({ isMobile = false }: { isMobile?: boolean }) {
           href="/app/speech-synthesis/speech-to-speech"
         >
           Voice Changer
-        </SidebarButton>
-        <SidebarButton
-          icon={<IoMusicalNotesOutline />}
-          isExpanded={isExpanded}
-          isActive={pathname.includes("/app/sound-effects")}
-          href="/app/sound-effects/generate"
-        >
-          Sound Effects
         </SidebarButton>
       </nav>
 

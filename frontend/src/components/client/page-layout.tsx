@@ -117,7 +117,7 @@ export function PageLayout({
           </div>
         </div>
 
-        {isMobileScreen && !pathname.includes("/app/sound-effects") && (
+        {isMobileScreen && (
           <MobileSettingsButton toggleMobileMenu={toggleMobileMenu} />
         )}
 

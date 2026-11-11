@@ -22,7 +22,6 @@ export const env = createEnv({
     BACKEND_API_KEY: z.string(),
     STYLETTS2_API_ROUTE: z.string(),
     SEED_VC_API_ROUTE: z.string(),
-    MAKE_AN_AUDIO_API_ROUTE: z.string(),
   },
 
   /**
@@ -49,7 +48,6 @@ export const env = createEnv({
     BACKEND_API_KEY: process.env.BACKEND_API_KEY,
     STYLETTS2_API_ROUTE: process.env.STYLETTS2_API_ROUTE,
     SEED_VC_API_ROUTE: process.env.SEED_VC_API_ROUTE,
-    MAKE_AN_AUDIO_API_ROUTE: process.env.MAKE_AN_AUDIO_API_ROUTE,
   },
   /**
    * Run `build` or `dev` with `SKIP_ENV_VALIDATION` to skip env validation. This is especially

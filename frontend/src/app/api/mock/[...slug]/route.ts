@@ -3,13 +3,10 @@ import { getPresignedUrl } from "~/lib/s3";
 
 const services = {
   styletts2: {
-    voices: ["shubham", "woman"],
+    voices: ["shubham"],
   },
   "seed-vc": {
-    voices: ["shubham", "woman", "trump"],
-  },
-  "make-an-audio": {
-    voices: [],
+    voices: ["shubham"],
   },
 };
 

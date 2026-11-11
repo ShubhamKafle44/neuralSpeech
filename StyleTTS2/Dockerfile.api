@@ -33,11 +33,6 @@ ENV TORCH_HOME=/app/Models
 ENV CONFIG_PATH=Models/LibriTTS/config.yml
 ENV MODEL_PATH=Models/LibriTTS/epoch_2nd_00074.pth
 
-ENV AWS_REGION=us-east-1
-ENV S3_BUCKET=neuralSpeech
-ENV S3_PREFIX=styletts2-output
-ENV API_KEY=12345
-
 EXPOSE 8000
 
 CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8000"]

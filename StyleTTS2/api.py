@@ -83,8 +83,7 @@ app = FastAPI(title="StyleTTS2 API",
               lifespan=lifespan)
 
 TARGET_VOICES = {
-    "shubham": "Models/LibriTTS/shubham1.wav",
-    "woman": "Models/LibriTTS/woman1.wav",
+    "shubham": "shubham_demo.wav",
 }
 
 
