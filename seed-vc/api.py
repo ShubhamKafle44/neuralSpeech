@@ -62,7 +62,7 @@ MODEL_CONFIG = os.getenv(
     "./configs/presets/config_dit_mel_seed_uvit_whisper_small_wavenet.yml",
 )
 SHUBHAM_REFERENCE_AUDIO = os.getenv(
-    "SEEDVC_SHUBHAM_REFERENCE", "examples/reference/shubham1.wav")
+    "SEEDVC_SHUBHAM_REFERENCE", "examples/reference/shubham_1.wav")
 
 
 @asynccontextmanager

@@ -92,7 +92,7 @@ The following Compose variables are optional; defaults are shown:
 | `SEEDVC_S3_PREFIX`         | `seedvc-outputs`                                                          | S3 key prefix for generated Seed-VC audio                |
 | `SEEDVC_CHECKPOINT`        | `./runs/shubham_voice/ft_model.pth`                                       | Checkpoint path inside the Seed-VC container             |
 | `SEEDVC_CONFIG`            | `./runs/shubham_voice/config_dit_mel_seed_uvit_whisper_small_wavenet.yml` | Model config path inside the Seed-VC container           |
-| `SEEDVC_SHUBHAM_REFERENCE` | `./examples/reference/shubham1.wav`                                       | Target voice reference path inside the Seed-VC container |
+| `SEEDVC_SHUBHAM_REFERENCE` | `./examples/reference/shubham_1.wav`                                      | Target voice reference path inside the Seed-VC container |
 
 Docker Compose does not automatically read `frontend/.env` when run from the repository root. Pass it explicitly with `--env-file frontend/.env` to Compose commands. Next.js loads `frontend/.env` when you run its commands from `frontend/`.
 
@@ -172,9 +172,9 @@ The model weights and personal audio assets are large and may be excluded from G
 
 - StyleTTS 2: `StyleTTS2/Models/LibriTTS/config.yml` and `StyleTTS2/Models/LibriTTS/epoch_2nd_00074.pth` (the Dockerfile sets these as defaults).
 - Seed-VC: `seed-vc/runs/shubham_voice/ft_model.pth` and `seed-vc/runs/shubham_voice/config_dit_mel_seed_uvit_whisper_small_wavenet.yml` (the Compose defaults).
-- Seed-VC target voice recording: `seed-vc/examples/reference/shubham1.wav` (the Compose default).
+- Seed-VC target voice recording: `seed-vc/examples/reference/shubham_1.wav` (the Compose default).
 
-The uploaded MP3/WAV is the **source** recording to convert. `shubham1.wav` is a separate **target/reference** recording used to define the output voice. A missing reference file causes `/convert` to return HTTP 500 with a `No such file or directory` error. Provide a recording you have permission to use, or set `SEEDVC_SHUBHAM_REFERENCE` to another existing path inside the container. The Dockerfile copies `seed-vc/examples/` into the image, so a changed reference requires rebuilding the Seed-VC image.
+The uploaded MP3/WAV is the **source** recording to convert. `shubham_1.wav` is a separate **target/reference** recording used to define the output voice. A missing reference file causes `/convert` to return HTTP 500 with a `No such file or directory` error. Provide a recording you have permission to use, or set `SEEDVC_SHUBHAM_REFERENCE` to another existing path inside the container. The Dockerfile copies `seed-vc/examples/` into the image, so a changed reference requires rebuilding the Seed-VC image.
 
 The StyleTTS 2 API also expects its target speaker reference, `shubham_demo.wav`, in its working directory. The API currently maps the `shubham` target voice to that filename. Ensure the API image has the file available at `/app/shubham_demo.wav` (for example, add it to the StyleTTS 2 API image or mount it there in your deployment).
 
